@@ -1,0 +1,18 @@
+CMATH Program version 1.0
+
+BUILDING
+
+Linux:
+
+	aclocal
+	autoconf
+	automake --add-missing --foreign
+	./configure
+	make
+
+Windows:
+
+	open solution in Visual Studio 2019 and build.
+
+
+Copyright Jonathan Moore 2019
